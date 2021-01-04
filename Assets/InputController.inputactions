@@ -1,0 +1,60 @@
+{
+    "name": "InputController",
+    "maps": [
+        {
+            "name": "PlayerWalking",
+            "id": "85974b88-86ba-4164-827f-750dccfdf2bd",
+            "actions": [
+                {
+                    "name": "Jump",
+                    "type": "Button",
+                    "id": "7fd15442-e752-4340-b51e-cb785c250f99",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "7be2bd22-07c1-45f1-a232-37456bc77a8a",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Jump",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "PlayerControl1",
+            "id": "a83f77f6-6649-4238-86c2-f47e5d6d281b",
+            "actions": [
+                {
+                    "name": "Jump",
+                    "type": "Button",
+                    "id": "ef3306a5-8304-4fa1-97f1-8bf1a9e3332f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "66488928-0638-430b-a00a-60ebb4ef8fe9",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Jump",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
